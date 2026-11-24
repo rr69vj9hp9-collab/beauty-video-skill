@@ -16,7 +16,7 @@
 把仓库克隆到 Codex 的 skills 目录，并保持文件夹名为 `beauty-video`：
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/beauty-video-skill.git \
+git clone https://github.com/rr69vj9hp9-collab/beauty-video-skill.git \
   "${CODEX_HOME:-$HOME/.codex}/skills/beauty-video"
 ```
 
